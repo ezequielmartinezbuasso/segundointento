@@ -1,4 +1,4 @@
 # segundointento
-practica 2
-agregar texto
-ver como va
+practica 2;
+ver como va;
+y algo mas;
